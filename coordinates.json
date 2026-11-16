@@ -1,0 +1,111 @@
+{
+  "solis": {
+    "lat": -34.9078788,
+    "lng": -56.2010001,
+    "name": "Teatro Solís, Bartolomé Mitre, Ciudad Vieja, Montevideo, 11000, Uruguay"
+  },
+  "sodre": {
+    "lat": -34.9042808,
+    "lng": -56.198708,
+    "name": "Auditorio Nacional \"Adela Reta\", 1455, Andes, Barrio Sur, Montevideo, 11000, Uruguay"
+  },
+  "cinemateca": {
+    "lat": -34.908515,
+    "lng": -56.2008552,
+    "name": "Cinemateca Uruguaya, 1236, Bartolomé Mitre, Ciudad Vieja, Montevideo, 11000, Uruguay"
+  },
+  "nelly": {
+    "lat": -34.9064151,
+    "lng": -56.196285,
+    "name": "Auditorio Nelly Goitiño, Avenida 18 de Julio, Barrio Sur, Montevideo, 11100, Uruguay"
+  },
+  "cce": {
+    "lat": -34.9057785,
+    "lng": -56.2027206,
+    "name": "Centro Cultural de España, 629, Rincón, Ciudad Vieja, Montevideo, 11000, Uruguay"
+  },
+  "aecid": {
+    "lat": -34.9057873,
+    "lng": -56.2052188,
+    "name": "518,520,522, 25 de Mayo, Ciudad Vieja, Montevideo, 11000, Uruguay"
+  },
+  "museo": {
+    "lat": -34.9057085,
+    "lng": -56.21217,
+    "name": "Museo de Carnaval, 218, Rambla 25 de Agosto de 1825, Ciudad Vieja, Montevideo, 11000, Uruguay"
+  },
+  "maua": {
+    "lat": -34.9121908,
+    "lng": -56.1960524,
+    "name": "Parque Mauá · ubicación publicada por la Intendencia de Montevideo",
+    "source": "https://montevideo.gub.uy/parques-de-montevideo/parque-maua"
+  },
+  "montevideosur": {
+    "lat": -34.9098214,
+    "lng": -56.1920231,
+    "name": "Montevideo al Sur",
+    "address": "Paraguay 1150",
+    "source": "https://www.gub.uy/ministerio-educacion-cultura/patrimonio-uruguay/guia-actividades-dia-del-patrimonio-2026/montevideo/barrio-sur"
+  },
+  "paysandu": {
+    "lat": -34.9022743,
+    "lng": -56.1919269,
+    "name": "Bar Paysandú",
+    "address": "Av. Gral. Rondeau 1549",
+    "source": "https://paseocentro.com.uy/bar-paysandu/"
+  },
+  "santacatalina": {
+    "lat": -34.909496,
+    "lng": -56.1999995,
+    "name": "Santa Catalina",
+    "address": "Ciudadela 1200",
+    "source": "https://www.gub.uy/ministerio-educacion-cultura/patrimonio-uruguay/guia-actividades-dia-del-patrimonio-2026/montevideo/barrio-sur"
+  },
+  "brasilero": {
+    "lat": -34.9056692,
+    "lng": -56.2046929,
+    "name": "Café Brasilero",
+    "address": "Ituzaingó 1447",
+    "source": "https://cafebrasilero.uy/"
+  },
+  "ladiaria": {
+    "lat": -34.9072987,
+    "lng": -56.2013957,
+    "name": "Café la diaria",
+    "address": "Bacacay 1306",
+    "source": "https://www.apu.uy/sites/default/files/media/files/2026-03/catalogo%20Festival%20Cinemateca.pdf"
+  },
+  "brecha": {
+    "lat": -34.9084142,
+    "lng": -56.18779,
+    "name": "Brecha Bar y Café",
+    "address": "Aquiles Lanza 1201",
+    "source": "https://1122.com.uy/local/brecha-bar-y-cafe/LOC556280001"
+  },
+  "cdf": {
+    "lat": -34.906209,
+    "lng": -56.1973729,
+    "name": "Terraza del Centro de Fotografía",
+    "source": "https://cdf.montevideo.gub.uy/sala/sede-cdf"
+  },
+  "martei": {
+    "lat": -34.9039968,
+    "lng": -56.1996303,
+    "name": "Martei Café",
+    "address": "Florida 1487",
+    "source": "https://www.google.com/maps/search/Martei+Florida+1487+Montevideo"
+  },
+  "capicua": {
+    "lat": -34.9088117,
+    "lng": -56.2098835,
+    "name": "Destilería Capicúa",
+    "address": "Pérez Castellano 1364",
+    "source": "https://eventos.montevideo.gub.uy/evento/sabados-en-ciudad-vieja/musica-en-vivo-en-destileria-capicua"
+  },
+  "fotogaleria": {
+    "lat": -34.9134288,
+    "lng": -56.1693808,
+    "name": "Fotogalería Parque Rodó",
+    "source": "https://cdf.montevideo.gub.uy/sala/fotogaleria-parque-rodo"
+  }
+}
