@@ -142,8 +142,10 @@ em{color:var(--access-coral)}
 .venues .section-top p{color:#edf4ff}
 .venue-cards .access-venue-card summary{--venue-photo:40%;position:relative;display:grid;grid-template-columns:1fr auto;min-height:104px;padding:0 12px 0 calc(var(--venue-photo) + 14px)}
 .venue-cards .access-venue-card summary img{position:absolute;inset:0 auto 0 0;width:var(--venue-photo);height:100%;min-height:0;object-fit:cover;object-position:center}
+.venue-cards .access-venue-card:not([open]) summary{height:100%}
 .venue-card-copy{padding:12px 4px;justify-content:center}
 .venue-card-copy strong{font-size:18px;line-height:1.08}
+#ficha-aecid .venue-card-copy strong{font-size:17px;line-height:1.06}
 .venue-card-copy small,.venue-card-copy em{display:none}
 .venue-cards .access-venue-card summary>b{margin-right:0;color:#e34183;font-size:21px}
 .venue-cards .access-venue-card:hover summary>b,.venue-cards .access-venue-card[open] summary>b{color:#f35d91}
