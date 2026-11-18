@@ -107,11 +107,5 @@
     "lng": -56.1693808,
     "name": "Fotogalería Parque Rodó",
     "source": "https://cdf.montevideo.gub.uy/sala/fotogaleria-parque-rodo"
-  },
-  "busturistico": {
-    "lat": -34.9064,
-    "lng": -56.2114,
-    "name": "Bus Turístico · Mercado del Puerto",
-    "source": "https://www.descubrimontevideo.uy/bus-turistico-de-montevideo"
   }
 }
