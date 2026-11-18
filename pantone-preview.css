@@ -153,3 +153,8 @@ em{color:var(--access-coral)}
 @media(max-width:1050px){.venue-cards .access-venue-card summary,.venue-cards .access-venue-card summary img{min-height:104px}}
 @media(max-width:850px){.venue-cards .access-venue-card summary{--venue-photo:35%;grid-template-columns:1fr auto;min-height:102px;padding-left:calc(var(--venue-photo) + 13px)}.venue-cards .access-venue-card summary img{min-height:0}}
 @media(max-width:540px){.venue-cards .access-venue-card summary{--venue-photo:36%;grid-template-columns:1fr auto;min-height:98px;padding-left:calc(var(--venue-photo) + 12px)}.venue-cards .access-venue-card summary img{min-height:0}.venue-card-copy strong{font-size:17px}}
+.support-request{max-width:1220px;margin:34px auto 0;padding:27px 30px;border:1px solid #ffffff42;border-radius:20px;background:#ffffff0d;display:grid;grid-template-columns:.65fr 1.35fr;gap:12px 42px}
+.support-request h3{grid-row:1/4;font-size:24px;line-height:1.15;font-weight:500;margin:0;color:#fff}
+.support-request p{font-size:14px;line-height:1.65;margin:0;color:#edf4ff}
+.support-request strong{font-size:14px;line-height:1.55;color:#ffb1c1}
+@media(max-width:800px){.support-request{grid-template-columns:1fr;padding:22px;gap:12px}.support-request h3{grid-row:auto;font-size:21px}}
